@@ -527,6 +527,7 @@ public class KMLViewer extends ApplicationTemplate
 
                 // Schedule a task on the EDT to add the parsed document to a layer
                 final KMLRoot finalKMLRoot = kmlRoot;
+                
                 SwingUtilities.invokeLater(new Runnable()
                 {
                     public void run()

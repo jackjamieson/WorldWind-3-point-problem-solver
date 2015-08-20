@@ -7,8 +7,6 @@ package worldwind3pp;
 
 import gov.nasa.worldwind.WorldWind;
 import gov.nasa.worldwind.WorldWindow;
-import gov.nasa.worldwind.event.PositionEvent;
-import gov.nasa.worldwind.event.PositionListener;
 import gov.nasa.worldwind.geom.Angle;
 import gov.nasa.worldwind.geom.Position;
 import gov.nasa.worldwind.geom.Vec4;
